@@ -1,2 +1,7 @@
-# app-agent-project
-App Agentic AI is an application that helps technical users understand a software repository automatically, without having to manually dig through thousands of lines of code.
+# 🧠 App Agentic AI
+
+App Agentic AI helps technical users understand how a software repository works — 
+without having to manually explore the entire source code.
+
+It automatically analyzes project files, builds a relational model of entities, 
+and provides interactive visualizations, summaries, and an AI-powered chat interface.
